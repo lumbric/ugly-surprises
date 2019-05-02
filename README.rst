@@ -4,8 +4,7 @@
 Ugly Surprises
 ==============
 
+Python gotchas and other surprising facts. More to be added soon.
+
   Surprising is more ugly than beautiful.
     -- based loosely on PEP 20
-
-
-Python gotchas and other surprising facts. More to be added soon.
