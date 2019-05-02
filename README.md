@@ -1,2 +1,4 @@
-# ugly-surprises
-Python gotchas and other surprising facts
+Ugly is more surprising than beautiful.
+=======================================
+
+Python gotchas and other surprising facts. More to be added soon.
