@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg58135"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="riddles.svg">
+  <defs
+     id="defs58129" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="412.53804"
+     inkscape:cy="520.94184"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1149"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata58132">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot915"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Georgia;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Georgia;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion917"><rect
+           id="rect919"
+           width="448.21429"
+           height="191.42857"
+           x="83.214287"
+           y="212.16255" /></flowRegion><flowPara
+         id="flowPara921" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot933"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Georgia;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Georgia;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion935"><rect
+           id="rect937"
+           width="478.81232"
+           height="64.144684"
+           x="44.951786"
+           y="174.9966" /></flowRegion><flowPara
+         id="flowPara939" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.607072"
+       y="16.20134"
+       id="text961"><tspan
+         sodipodi:role="line"
+         id="tspan959"
+         x="12.607072"
+         y="21.293873"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';stroke-width:0.26458332" /></text>
+    <g
+       id="g1336">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-5.0948337,-46.195085)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot923"
+         xml:space="preserve"><flowRegion
+           style="text-align:justify;text-anchor:start"
+           id="flowRegion925"><rect
+             style="text-align:justify;text-anchor:start"
+             y="243.59113"
+             x="66.071426"
+             height="170.51923"
+             width="275.00385"
+             id="rect927" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara929">Write a Python 3 script that imports no modules, contains no parentheses, and prints something to stdout when executed.</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-9.9003133,-35.184656)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot949"
+         xml:space="preserve"><flowRegion
+           style="text-align:justify;text-anchor:start"
+           id="flowRegion951"><rect
+             style="text-align:justify;text-anchor:start"
+             y="396.76099"
+             x="82.772842"
+             height="60.032261"
+             width="276.46487"
+             id="rect953" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara955">Difficulty: hard. Relevancy to practice: medium. Fun: high.  Find more mind screwing Python in a merely related lightning talk (Friday ~17:00)  and here:  http://bit.ly/ugly-surprises</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara957" /></flowRoot>      <text
+         id="text965"
+         y="57.109695"
+         x="12.828343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;stroke-width:0.26458332"
+           y="57.109695"
+           x="12.828343"
+           id="tspan963"
+           sodipodi:role="line">Source: https://www.reddit.com/user/la-lalxu</tspan></text>
+      <rect
+         y="10.000001"
+         x="10"
+         height="75.640259"
+         width="77.110245"
+         id="rect1184"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0382128;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,0,-1.681994)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1225"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'"
+           id="flowRegion1227"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'"
+             y="47.519691"
+             x="45.354332"
+             height="67.85714"
+             width="251.78853"
+             id="rect1229" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'"
+           id="flowPara1231"><flowSpan
+   id="flowSpan1233"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Python </flowSpan>riddle 1</flowPara></flowRoot>    </g>
+    <g
+       id="g1352"
+       transform="translate(-84.666978,186.1721)">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,79.358717,-46.801117)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot923-3"
+         xml:space="preserve"><flowRegion
+           style="text-align:justify;text-anchor:start"
+           id="flowRegion925-6"><rect
+             style="text-align:justify;text-anchor:start"
+             y="243.59113"
+             x="66.071426"
+             height="164.96335"
+             width="328.37561"
+             id="rect927-7" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara929-5">&quot;There should be one - and preferably only one - obvious way to do it.&quot; - PEP 20</flowPara><flowPara
+           id="flowPara1018"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">Find as many non-obvious ways as possible to add a new name to <flowSpan
+   id="flowSpan1020"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';text-align:justify;text-anchor:start">globals()</flowSpan>!</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,75.017526,-36.090191)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot949-3"
+         xml:space="preserve"><flowRegion
+           style="text-align:justify;text-anchor:start"
+           id="flowRegion951-5"><rect
+             style="text-align:justify;text-anchor:start"
+             y="393.18954"
+             x="83.337585"
+             height="74.13736"
+             width="333.35031"
+             id="rect953-6" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara955-2">Difficulty: medium. Relevancy to practice: medium. Fun: low.  Find more mind screwing Python in a merely related lightning talk (Friday ~17:00)  and here:  http://bit.ly/ugly-surprises</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara957-9" /></flowRoot>      <text
+         id="text961-1"
+         y="15.735855"
+         x="96.598854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';stroke-width:0.26458332"
+           y="15.735855"
+           x="96.598854"
+           id="tspan959-2"
+           sodipodi:role="line">Python riddle 2</tspan></text>
+      <rect
+         y="10.001406"
+         x="94.668053"
+         height="70.791412"
+         width="91.923622"
+         id="rect1184-2"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0403627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1378">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-5.5048259,34.395388)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot923-3-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion925-6-3"><rect
+             y="243.59113"
+             x="66.071426"
+             height="240.35713"
+             width="504.28571"
+             id="rect927-7-2" /></flowRegion><flowPara
+           id="flowPara1018-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">Find a list <flowSpan
+   id="flowSpan1107"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono'">items</flowSpan> which contains only lists and integers, such that <flowSpan
+   id="flowSpan1109"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono'">print_tree(items)</flowSpan> raises a <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono'"
+   id="flowSpan911">RecursionError</flowSpan> exception, independent of the set recursion limit.</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-9.813378,73.064532)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot949-3-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion951-5-9"><rect
+             y="393.18954"
+             x="83.337585"
+             height="56.063469"
+             width="495.98486"
+             id="rect953-6-4" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+           id="flowPara955-2-9">Difficulty: medium. Relevancy to practice: low. Fun: medium.  Find more mind screwing Python in a merely related lightning talk (Friday ~17:00)  and here:  http://bit.ly/ugly-surprises</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+           id="flowPara957-9-5" /></flowRoot>      <text
+         id="text961-1-5"
+         y="96.034012"
+         x="11.914705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';stroke-width:0.26458332"
+           y="96.034012"
+           x="11.914705"
+           id="tspan959-2-7"
+           sodipodi:role="line">Python riddle 3</tspan></text>
+      <text
+         id="text1113"
+         y="135.33713"
+         x="12.501727"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';stroke-width:0.26458332"
+           y="135.33713"
+           x="12.501727"
+           id="tspan1111"
+           sodipodi:role="line">from collections.abc import Iterable</tspan><tspan
+           id="tspan1115"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';stroke-width:0.26458332"
+           y="140.2361"
+           x="12.501727"
+           sodipodi:role="line" /><tspan
+           id="tspan1117"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';stroke-width:0.26458332"
+           y="145.08681"
+           x="12.501727"
+           sodipodi:role="line">def print_tree(items, prefix=''):</tspan><tspan
+           id="tspan1119"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';stroke-width:0.26458332"
+           y="149.98578"
+           x="12.501727"
+           sodipodi:role="line">    if not isinstance(items, Iterable):</tspan><tspan
+           id="tspan1121"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';stroke-width:0.26458332"
+           y="154.88477"
+           x="12.501727"
+           sodipodi:role="line">        print(f&quot;{prefix}{items}&quot;)</tspan><tspan
+           id="tspan1123"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';stroke-width:0.26458332"
+           y="159.78374"
+           x="12.501727"
+           sodipodi:role="line">    else:</tspan><tspan
+           id="tspan1125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';stroke-width:0.26458332"
+           y="164.68272"
+           x="12.501727"
+           sodipodi:role="line">        for item in items:</tspan><tspan
+           id="tspan1127"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';stroke-width:0.26458332"
+           y="169.5817"
+           x="12.501727"
+           sodipodi:role="line">            print_tree(item, prefix=f&quot;    {prefix}&quot;)</tspan><tspan
+           id="tspan1129"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';stroke-width:0.26458332"
+           y="174.48068"
+           x="12.501727"
+           sodipodi:role="line" /></text>
+      <rect
+         y="89.382973"
+         x="10.007976"
+         height="96.230255"
+         width="136.82903"
+         id="rect1184-1"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.05416531;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1317"
+       transform="translate(96.535118,-36.602683)">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-5.3053626,176.69529)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot923-3-3"
+         xml:space="preserve"><flowRegion
+           style="text-align:justify;text-anchor:start"
+           id="flowRegion925-6-9"><rect
+             style="text-align:justify;text-anchor:start"
+             y="243.59113"
+             x="66.071426"
+             height="186.10477"
+             width="352.12027"
+             id="rect927-7-0" /></flowRegion><flowPara
+           id="flowPara1018-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">Write code which prints different things to stdout when run with different Python versions without checking for the Python version explicitly or implicitly.</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-9.8359273,181.68676)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot949-3-2"
+         xml:space="preserve"><flowRegion
+           style="text-align:justify;text-anchor:start"
+           id="flowRegion951-5-90"><rect
+             style="text-align:justify;text-anchor:start"
+             y="393.18954"
+             x="83.337585"
+             height="59.231373"
+             width="350.28394"
+             id="rect953-6-5" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara955-2-0">Difficulty: unclear. Relevancy to practice: medium. Fun: low.  Find more mind screwing Python in a merely related lightning talk (Friday ~17:00)  and here:  http://bit.ly/ugly-surprises</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara957-9-4" /></flowRoot>      <text
+         id="text961-1-1"
+         y="238.89897"
+         x="11.892151"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';stroke-width:0.26458332"
+           y="238.89897"
+           x="11.892151"
+           id="tspan959-2-79"
+           sodipodi:role="line">Python riddle 4</tspan></text>
+      <rect
+         y="232.77597"
+         x="10.000856"
+         height="65.464592"
+         width="97.267372"
+         id="rect1184-1-2"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03992667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(85.43743)"
+       id="g1336-7">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-5.0948337,-45.665918)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot923-2"
+         xml:space="preserve"><flowRegion
+           style="text-align:justify;text-anchor:start"
+           id="flowRegion925-7"><rect
+             style="text-align:justify;text-anchor:start"
+             y="243.59113"
+             x="66.071426"
+             height="170.51923"
+             width="275.00385"
+             id="rect927-4" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara929-1">Write a Python 3 script that imports no modules, contains no parentheses, and prints something to stdout when executed.</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-9.9003133,-35.184656)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot949-0"
+         xml:space="preserve"><flowRegion
+           style="text-align:justify;text-anchor:start"
+           id="flowRegion951-0"><rect
+             style="text-align:justify;text-anchor:start"
+             y="396.76099"
+             x="82.772842"
+             height="60.032261"
+             width="276.46487"
+             id="rect953-64" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara955-4">Difficulty: hard. Relevancy to practice: medium. Fun: high.  Find more mind screwing Python in a merely related lightning talk (Friday ~17:00)  and here:  http://bit.ly/ugly-surprises</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"
+           id="flowPara957-3" /></flowRoot>      <text
+         id="text965-7"
+         y="58.697197"
+         x="12.828343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;stroke-width:0.26458332"
+           y="58.697197"
+           x="12.828343"
+           id="tspan963-3"
+           sodipodi:role="line">Source: https://www.reddit.com/user/la-lalxu</tspan></text>
+      <rect
+         y="10.000001"
+         x="10"
+         height="75.640259"
+         width="77.110245"
+         id="rect1184-4"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0382128;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,0,-1.681994)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1225-7"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'"
+           id="flowRegion1227-2"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'"
+             y="47.519691"
+             x="45.354332"
+             height="67.85714"
+             width="251.78853"
+             id="rect1229-1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'"
+           id="flowPara1231-7"><flowSpan
+   id="flowSpan1233-9"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Python </flowSpan>riddle 1</flowPara></flowRoot>    </g>
+  </g>
+</svg>
