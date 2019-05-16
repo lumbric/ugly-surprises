@@ -1,8 +1,10 @@
-.. image:: https://img.shields.io/github/license/lumbric/ugly-surprises.svg
-  :alt: MIT License
+.. |license| image:: https://img.shields.io/github/license/lumbric/ugly-surprises.svg
+   :target: https://choosealicense.com/licenses/mit
+   :alt: MIT License
 
-Ugly Surprises
-==============
+
+Ugly Surprises  |license| 
+=========================
 
   Surprising is more ugly than beautiful.
     -- based loosely on PEP 20
