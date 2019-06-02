@@ -3,7 +3,7 @@
    :alt: MIT License
 
 
-Ugly Surprises  |license| 
+Ugly Surprises  |license|
 =========================
 
   Surprising is more ugly than beautiful.
@@ -76,3 +76,13 @@ workspaces need to be prepared:
 - Screen 4: idoitlive `presentation-part2-unicode.sh <presentation-part2-unicode.sh>`_
 - Screen 5: vi `mandelbrot.py <mandelbrot.py>`_
 - Screen 6: `mandelbrot.png <mandelbrot.png>`_
+
+
+Unrelated mistakes
+------------------
+
+Interesting mistakes and surprises without Python:
+
+- `Proof for 3 = 0 <https://www.youtube.com/watch?v=SGUZ-8u1OxM>`_
+- `What Happens When Math Goes wrong? with Matt Parker <https://www.youtube.com/watch?v=6JwEYamjXpA>`_
+- `All Numbers are Describable in at Most Twenty Words <https://jeremykun.com/2011/07/28/false-proof-twenty-word/>`_ `(more false proofs) <https://jeremykun.com/proof-gallery/>`_
