@@ -11,7 +11,8 @@ class Shrug:
 ಠ_ಠ = Shrug()
 
 
-class Yolo: def __repr__(self):
+class Yolo:
+    def __repr__(self):
         return r'( ͡° ͜ʖ ͡°)'
 
 
