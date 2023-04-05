@@ -78,6 +78,23 @@ workspaces need to be prepared:
 - Screen 6: `mandelbrot.png <mandelbrot.png>`_
 
 
+Surpising code snippets not (yet) used here
+-------------------------------------------
+
+Numpy seems to use [partial pairwise summation in some cases](https://numpy.org/doc/stable/reference/generated/numpy.sum.html), which can lead to different results depending on the data type used:
+
+```
+>>> import numpy as np
+>>> data = [0.042411500823462206, 0.5387831400906496,
+            2.0907299109640074, 0.012566370614359173, 0.5387831400906496,
+            0.10053096491487339, 0.5387831400906496, 0.10053096491487339,
+            0.8042477193189871, 0.1963495408493621, 1.1451105222334796,
+            1.1451105222334796]
+>>> np.sum(np.array(data, dtype=object)) - np.sum(np.array(data, dtype=float))
+8.881784197001252e-16
+```
+
+
 Unrelated mistakes
 ------------------
 
