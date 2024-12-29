@@ -210,3 +210,8 @@ Well at least enforces formatting your code properly with white spaces...
 See `mandelbrot.py <mandelbrot.py>`_ and `mandelbrot.png <mandelbrot.png>`_.
 
 Source: https://preshing.com/20110926/high-resolution-mandelbrot-in-obfuscated-python/
+
+
+...
+    TODO this has not been used but is also neat:
+    min(math.nan, 1) != min(1, math.nan)
