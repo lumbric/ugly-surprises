@@ -6,14 +6,20 @@
 Ugly Surprises  |license|
 =========================
 
-  Surprising is more ugly than beautiful.
-    -- based loosely on PEP 20
+  Surprises are more ugly than beautiful.
+    -- loosely based on PEP 20
 
-Python gotchas and surprising Python facts presented as lightning talk at the PyDays 2019. Inspired by the
-`WAT lightning talk by Gary Bernhardt from CodeMash 2012`_. This repository
-contains links to the sources and all material.
+Python gotchas and surprising Python facts presented as lightning talk at the `PyDays 2019`_.
+Inspired by the `WAT lightning talk by Gary Bernhardt from CodeMash 2012`_. 
+This repository contains links to the sources and all the material for the live presentation, as
+well as a `PDF`_ with screenshots of the live demo.
 
+The lightning talk was presented again at `PyCon Austria 2025`_.
+
+.. _`PyDays 2019`: https://www.pydays.at/
 .. _`WAT lightning talk by Gary Bernhardt from CodeMash 2012`: https://www.destroyallsoftware.com/talks/wat
+.. _`PyCon Austria 2025`: https://pycon.pyug.at/
+.. _`PDF`: slides.pdf
 
 
 Riddles
@@ -21,7 +27,7 @@ Riddles
 
 Not really part of the lightning talk, but kind of related and also collected and
 prepared for the PyDays 2019, some mind screwing Python riddles with surprising
-solutions. Riddles are available for print as `PDF <riddles.pdf>`_ and `SVG
+solutions. Riddles are available as `PDF <riddles.pdf>`_ and `SVG
 <riddles.svg>`_.
 
 Links
@@ -59,27 +65,78 @@ To install with conda:
 
     $ conda env update -f env-frozen.yml
     $ conda activate ugly-surprises
-    $ PYTHONPATH=$(pwd) doitlive play presentation-part2-unicode.sh
+    $ PYTHONPATH=$(pwd) doitlive play -q presentation-part2-unicode.sh
 
 .. _doitlive: https://doitlive.readthedocs.io/en/stable/
+
+
+In 2025 `pixi`_ has been used instead of conda:
+
+.. code:: bash
+
+    $ pixi shell
+    $ doitlive play -q presentation-part2-unicode.sh
+
+
+.. _`pixi`: https://pixi.sh/
+
+
+The automatic shell completion can be disruptive, so it is disabled by adding the following
+lines to ``~/.ipython/profile_default/ipython_config.py``:
+
+.. code:: python
+
+    c = get_config()  #noqa
+    c.TerminalInteractiveShell.autosuggestions_provider = None
+
+
+A warning is displayed by doitlive when using the gnome-terminal. Neither filtering the warning nor
+using a different terminal emulator works, so the warning is disabled by removing it from the
+source code in the ``.pixi`` environment:
+
+.. code:: diff
+
+    --- .pixi/envs/default/lib/python3.10/site-packages/prompt_toolkit/application/application.py
+    +++ .pixi/envs/default/lib/python3.10/site-packages/prompt_toolkit/application/application.py-patched
+    @@ -1238,9 +1238,9 @@
+                 return  # We know about this already.
+     
+             def in_terminal() -> None:
+    -            self.output.write(
+    -                "WARNING: your terminal doesn't support cursor position requests (CPR).\r\n"
+    -            )
+                 self.output.flush()
+     
+             run_in_terminal(in_terminal)
 
 
 Presentation
 ------------
 
-See `notes.rst <notes.rst>`_ for detailed content of the presentation. 6
+See `notes.rst <notes.rst>`_ for detailed content of the presentation. 8
 workspaces need to be prepared:
 
 - Screen 1: eog `white.png <white.png>`_
-- Screen 2: eog `ugly-surprise-with-title.jpg <ugly-surprise-with-title.jpg>`_
-- Screen 3: ipython or idoitlive `presentation-part1.sh <presentation-part1.sh>`_
-- Screen 4: idoitlive `presentation-part2-unicode.sh <presentation-part2-unicode.sh>`_
-- Screen 5: vi `mandelbrot.py <mandelbrot.py>`_
-- Screen 6: `mandelbrot.png <mandelbrot.png>`_
+- Screen 2: eog `ugly-surprise.jpg <ugly-surprise.jpg>`
+- Screen 3: eog `ugly-surprise-with-title.png <ugly-surprise-with-title.png>`
+- Screen 4: ipython or doitlive play -q `presentation-part1.sh <presentation-part1.sh>`_
+- Screen 5: doitlive play -q `presentation-part2-unicode.sh <presentation-part2-unicode.sh>`_
+- Screen 6: vi `mandelbrot.py <mandelbrot.py>`_
+- Screen 7: `mandelbrot.png <mandelbrot.png>`_
+- Screen 8: `mandelbrot-wiht-text.png <mandelbrot-wiht-text.png>`_
+
+The presentation is done by switching from one workspace screen to the next one. Screen 4 can be
+typed live or by using doitlive. Screen 5 contains unicode characters, so one needs to use
+doitlive.
 
 
-Surpising code snippets not (yet) used here
--------------------------------------------
+The `slides.pdf`_ contains screenshots of the live presentation, which can be used as a backup.
+
+.. _`slides.pdf`: slides.pdf
+
+
+Surprising code snippets not (yet) used here
+--------------------------------------------
 
 Numpy seems to use [partial pairwise summation in some cases](https://numpy.org/doc/stable/reference/generated/numpy.sum.html), which can lead to different results depending on the data type used:
 
