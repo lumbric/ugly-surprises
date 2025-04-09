@@ -1,4 +1,8 @@
 Who likes surprises?
+Everyone?
+
+Well. I have tricked you. You have been mislead by the chocolate. Surprises are more ugly than
+beautiful.
 
 Surprises are terrible for programing. Who wants to use an API with surprising
 results?
@@ -22,7 +26,9 @@ programing language. If you know the famous WAT talk, you know what I mean.
 Bool
 ====
 
-Let's start with something easy!
+Python is a beautiful language, right?
+
+One can simply use type constructors to convert from string:
 
 >>> int('42')
 42
@@ -153,7 +159,7 @@ Source: https://github.com/satwikkansal/wtfpython#-is-not--is-not-is-not-
 
 
 Fun with Syntax
-==============
+===============
 
 x == not x
 Source: https://gist.github.com/nubela/5160540
@@ -210,6 +216,9 @@ Well at least enforces formatting your code properly with white spaces...
 See `mandelbrot.py <mandelbrot.py>`_ and `mandelbrot.png <mandelbrot.png>`_.
 
 Source: https://preshing.com/20110926/high-resolution-mandelbrot-in-obfuscated-python/
+
+
+Thanks for the nice conference! Don't do evil stuff, not in Python and not elsewhere!
 
 
 ...
