@@ -36,3 +36,7 @@ coverage.xml
 
 # Pycharm
 .idea
+
+# pixi environments
+.pixi
+*.egg-info

@@ -1,0 +1,15 @@
+[project]
+authors = ["lumbric <lumbric@gmail.com>"]
+channels = ["conda-forge"]
+description = "Dependencies for the lightning talk 'ugly surpises'"
+name = "ugly-surprises"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pip = ">=25.0.1,<26"
+python = "3.10.*"
+doitlive = ">=5.1.0,<6"
+ipython = ">=8.34.0,<9"
