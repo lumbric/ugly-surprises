@@ -117,8 +117,8 @@ See `notes.rst <notes.rst>`_ for detailed content of the presentation. 8
 workspaces need to be prepared:
 
 - Screen 1: eog `white.png <white.png>`_
-- Screen 2: eog `ugly-surprise.jpg <ugly-surprise.jpg>`
-- Screen 3: eog `ugly-surprise-with-title.png <ugly-surprise-with-title.png>`
+- Screen 2: eog `ugly-surprise.jpg <ugly-surprise.jpg>`_
+- Screen 3: eog `ugly-surprise-with-title.png <ugly-surprise-with-title.png>`_
 - Screen 4: ipython or doitlive play -q `presentation-part1.sh <presentation-part1.sh>`_
 - Screen 5: doitlive play -q `presentation-part2-unicode.sh <presentation-part2-unicode.sh>`_
 - Screen 6: vi `mandelbrot.py <mandelbrot.py>`_
