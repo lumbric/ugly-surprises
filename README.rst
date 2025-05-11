@@ -16,10 +16,6 @@ well as a `PDF`_ with screenshots of the live demo.
 
 The lightning talk was presented again at `PyCon Austria 2025`_.
 
-.. contents:: Table of Contents
-   :depth: 2
-   :local:
-
 
 Recording
 ---------
