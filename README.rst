@@ -135,7 +135,7 @@ workspaces need to be prepared:
 - Screen 5: doitlive play -q `presentation-part2-unicode.sh <presentation-part2-unicode.sh>`_
 - Screen 6: vi `mandelbrot.py <mandelbrot.py>`_
 - Screen 7: `mandelbrot.png <mandelbrot.png>`_
-- Screen 8: `mandelbrot-wiht-text.png <mandelbrot-wiht-text.png>`_
+- Screen 8: `mandelbrot-with-text.png <mandelbrot-with-text.png>`_
 
 The presentation is done by switching from one workspace screen to the next one. Screen 4 can be
 typed live or by using doitlive. Screen 5 contains unicode characters, so one needs to use
