@@ -14,7 +14,11 @@ Inspired by the `WAT lightning talk by Gary Bernhardt from CodeMash 2012`_.
 This repository contains links to the sources and all the material for the live presentation, as
 well as a `PDF`_ with screenshots of the live demo.
 
-The lightning talk was presented again at `PyCon Austria 2025`_.
+The lightning talk was presented again at `PyCon Austria 2025`_:
+
+.. image:: screenshot-youtube-pycon-austria2025.png
+   :target: https://youtu.be/j_fdGwDevKM?list=PL2SQsc4iPw5buH3ZK6MVxmGyB_ifIRB23&t=5
+
 
 .. _`PyDays 2019`: https://www.pydays.at/
 .. _`WAT lightning talk by Gary Bernhardt from CodeMash 2012`: https://www.destroyallsoftware.com/talks/wat
