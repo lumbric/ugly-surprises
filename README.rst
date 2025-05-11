@@ -27,7 +27,7 @@ Recording
 .. _`PyDays 2019`: https://www.pydays.at/
 .. _`WAT lightning talk by Gary Bernhardt from CodeMash 2012`: https://www.destroyallsoftware.com/talks/wat
 .. _`PyCon Austria 2025`: https://pycon.pyug.at/
-.. _`PDF`: slides.pdf
+.. _`PDF`: slides/slides.pdf
 
 
 Riddles
@@ -35,8 +35,8 @@ Riddles
 
 Not really part of the lightning talk, but kind of related and also collected and
 prepared for the PyDays 2019, some mind screwing Python riddles with surprising
-solutions. Riddles are available as `PDF <riddles.pdf>`_ and `SVG
-<riddles.svg>`_.
+solutions. Riddles are available as `PDF <riddles/riddles.pdf>`_ and `SVG
+<riddles/riddles.svg>`_.
 
 Links
 -----
@@ -73,7 +73,8 @@ To install with conda:
 
     $ conda env update -f env-frozen.yml
     $ conda activate ugly-surprises
-    $ PYTHONPATH=$(pwd) doitlive play -q presentation-part2-unicode.sh
+    $ cd presentation
+    $ PYTHONPATH=$(pwd)/.. doitlive play -q presentation-part2-unicode.sh
 
 .. _doitlive: https://doitlive.readthedocs.io/en/stable/
 
@@ -121,26 +122,27 @@ source code in the ``.pixi`` environment:
 Presentation
 ------------
 
-See `notes.rst <notes.rst>`_ for detailed content of the presentation. 8
-workspaces need to be prepared:
+See `notes.rst <presentation/notes.rst>`_ for detailed content of the presentation.
 
-- Screen 1: eog `white.png <white.png>`_
-- Screen 2: eog `ugly-surprise.jpg <ugly-surprise.jpg>`_
-- Screen 3: eog `ugly-surprise-with-title.png <ugly-surprise-with-title.png>`_
-- Screen 4: ipython or doitlive play -q `presentation-part1.sh <presentation-part1.sh>`_
-- Screen 5: doitlive play -q `presentation-part2-unicode.sh <presentation-part2-unicode.sh>`_
-- Screen 6: vi `mandelbrot.py <mandelbrot.py>`_
-- Screen 7: `mandelbrot.png <mandelbrot.png>`_
-- Screen 8: `mandelbrot-with-text.png <mandelbrot-with-text.png>`_
+8 workspaces need to be prepared:
+
+- Screen 1: eog `white.png <presentation/white.png>`_
+- Screen 2: eog `ugly-surprise.jpg <presentation/ugly-surprise.jpg>`_
+- Screen 3: eog `ugly-surprise-with-title.png <presentation/ugly-surprise-with-title.png>`_
+- Screen 4: ipython or doitlive play -q `presentation-part1.sh <presentation/presentation-part1.sh>`_
+- Screen 5: doitlive play -q `presentation-part2-unicode.sh <presentation/presentation-part2-unicode.sh>`_
+- Screen 6: vi `mandelbrot.py <presentation/mandelbrot.py>`_
+- Screen 7: `mandelbrot.png <presentation/mandelbrot.png>`_
+- Screen 8: `mandelbrot-with-text.png <presentation/mandelbrot-with-text.png>`_
 
 The presentation is done by switching from one workspace screen to the next one. Screen 4 can be
 typed live or by using doitlive. Screen 5 contains unicode characters, so one needs to use
 doitlive.
 
 
-The `slides.pdf`_ contains screenshots of the live presentation, which can be used as a backup.
+The `slides/slides.pdf`_ contains screenshots of the live presentation, which can be used as a backup.
 
-.. _`slides.pdf`: slides.pdf
+.. _`slides/slides.pdf`: slides/slides.pdf
 
 
 Surprising code snippets not (yet) used here
