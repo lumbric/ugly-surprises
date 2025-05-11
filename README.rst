@@ -14,7 +14,15 @@ Inspired by the `WAT lightning talk by Gary Bernhardt from CodeMash 2012`_.
 This repository contains links to the sources and all the material for the live presentation, as
 well as a `PDF`_ with screenshots of the live demo.
 
-The lightning talk was presented again at `PyCon Austria 2025`_:
+The lightning talk was presented again at `PyCon Austria 2025`_.
+
+.. contents:: Table of Contents
+   :depth: 2
+   :local:
+
+
+Recording
+---------
 
 .. image:: screenshot-youtube-pycon-austria2025.png
    :target: https://youtu.be/j_fdGwDevKM?list=PL2SQsc4iPw5buH3ZK6MVxmGyB_ifIRB23&t=5
@@ -142,22 +150,22 @@ The `slides.pdf`_ contains screenshots of the live presentation, which can be us
 Surprising code snippets not (yet) used here
 --------------------------------------------
 
-Numpy seems to use [partial pairwise summation in some cases](https://numpy.org/doc/stable/reference/generated/numpy.sum.html), which can lead to different results depending on the data type used:
+Numpy seems to use `partial pairwise summation in some cases <https://numpy.org/doc/stable/reference/generated/numpy.sum.html>`_, which can lead to different results depending on the data type used:
 
-```
->>> import numpy as np
->>> data = [0.042411500823462206, 0.5387831400906496,
-            2.0907299109640074, 0.012566370614359173, 0.5387831400906496,
-            0.10053096491487339, 0.5387831400906496, 0.10053096491487339,
-            0.8042477193189871, 0.1963495408493621, 1.1451105222334796,
-            1.1451105222334796]
->>> np.sum(np.array(data, dtype=object)) - np.sum(np.array(data, dtype=float))
-8.881784197001252e-16
-```
+.. code:: python
+
+    >>> import numpy as np
+    >>> data = [0.042411500823462206, 0.5387831400906496,
+                2.0907299109640074, 0.012566370614359173, 0.5387831400906496,
+                0.10053096491487339, 0.5387831400906496, 0.10053096491487339,
+                0.8042477193189871, 0.1963495408493621, 1.1451105222334796,
+                1.1451105222334796]
+    >>> np.sum(np.array(data, dtype=object)) - np.sum(np.array(data, dtype=float))
+    8.881784197001252e-16
 
 
-Unrelated mistakes
-------------------
+Unrelated mathematical surprises
+--------------------------------
 
 Interesting mistakes and surprises without Python:
 
