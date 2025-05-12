@@ -12,9 +12,13 @@ Ugly Surprises  |license|
 Python gotchas and surprising Python facts presented as lightning talk at the `PyDays 2019`_.
 Inspired by the `WAT lightning talk by Gary Bernhardt from CodeMash 2012`_. 
 This repository contains links to the sources and all materials for the live presentation, as
-well as a `PDF`_ with screenshots of the live demo.
+well as a `PDF file <slides/slides.pdf>`_ with screenshots of the live demo.
 
 The lightning talk was presented again at `PyCon Austria 2025`_.
+
+.. _`PyDays 2019`: https://www.pydays.at/
+.. _`WAT lightning talk by Gary Bernhardt from CodeMash 2012`: https://www.destroyallsoftware.com/talks/wat
+.. _`PyCon Austria 2025`: https://pycon.pyug.at/
 
 
 Recording
@@ -22,12 +26,6 @@ Recording
 
 .. image:: screenshot-youtube-pycon-austria2025.png
    :target: https://youtu.be/j_fdGwDevKM?list=PL2SQsc4iPw5buH3ZK6MVxmGyB_ifIRB23&t=5
-
-
-.. _`PyDays 2019`: https://www.pydays.at/
-.. _`WAT lightning talk by Gary Bernhardt from CodeMash 2012`: https://www.destroyallsoftware.com/talks/wat
-.. _`PyCon Austria 2025`: https://pycon.pyug.at/
-.. _`PDF`: <slides/slides.pdf>
 
 
 Riddles
