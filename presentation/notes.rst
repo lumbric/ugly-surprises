@@ -1,3 +1,7 @@
+# Note that this is a bit outdated. The talk has been slightly adapted for the presentation in
+2025. See presentation/presentation-part1.sh and presentation/presentation-part2-unicode.sh.
+
+
 Who likes surprises?
 Everyone?
 

@@ -27,7 +27,7 @@ Recording
 .. _`PyDays 2019`: https://www.pydays.at/
 .. _`WAT lightning talk by Gary Bernhardt from CodeMash 2012`: https://www.destroyallsoftware.com/talks/wat
 .. _`PyCon Austria 2025`: https://pycon.pyug.at/
-.. _`PDF`: slides/slides.pdf
+.. _`PDF`: <slides/slides.pdf>
 
 
 Riddles
@@ -120,7 +120,8 @@ A warning is displayed by doitlive when using gnome-terminal. Everything works a
 Presentation
 ------------
 
-See `notes.rst <presentation/notes.rst>`_ for detailed content of the presentation.
+See `notes.rst <presentation/notes.rst>`_ for detailed content of the presentation. The code that needs to be typed can be found in `presentation-part1.sh <presentation/presentation-part1.sh>`_ and
+`presentation-part2-unicode.sh <presentation/presentation-part2-unicode.sh>`_.
 
 8 workspaces need to be prepared:
 

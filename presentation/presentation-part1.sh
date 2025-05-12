@@ -11,9 +11,9 @@ meaning = 42
 life = 42
 meaning == life
 meaning is life
-thausand = 1000
+thousand = 1000
 other = 1000
-thausand is other
+thousand is other
 
 
 
