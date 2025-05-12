@@ -11,7 +11,7 @@ Ugly Surprises  |license|
 
 Python gotchas and surprising Python facts presented as lightning talk at the `PyDays 2019`_.
 Inspired by the `WAT lightning talk by Gary Bernhardt from CodeMash 2012`_. 
-This repository contains links to the sources and all the material for the live presentation, as
+This repository contains links to the sources and all materials for the live presentation, as
 well as a `PDF`_ with screenshots of the live demo.
 
 The lightning talk was presented again at `PyCon Austria 2025`_.
@@ -41,7 +41,7 @@ solutions. Riddles are available as `PDF <riddles/riddles.pdf>`_ and `SVG
 Links
 -----
 
-Talks about crazy facts in other programing languages than Python:
+Talks about crazy facts in other programming languages than Python:
 
 - https://www.destroyallsoftware.com/talks/wat
 - https://www.youtube.com/watch?v=tsG95Y-C14k
@@ -99,9 +99,7 @@ lines to ``~/.ipython/profile_default/ipython_config.py``:
     c.TerminalInteractiveShell.autosuggestions_provider = None
 
 
-A warning is displayed by doitlive when using the gnome-terminal. Neither filtering the warning nor
-using a different terminal emulator works, so the warning is disabled by removing it from the
-source code in the ``.pixi`` environment:
+A warning is displayed by doitlive when using gnome-terminal. Everything works as intended despite this warning, but neither attempts to filter it out nor switching to a different terminal emulator removes the message. Therefore, the warning is disabled by modifying the source code in the ``.pixi`` environment:
 
 .. code:: diff
 

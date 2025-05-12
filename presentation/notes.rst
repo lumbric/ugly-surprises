@@ -1,26 +1,25 @@
 Who likes surprises?
 Everyone?
 
-Well. I have tricked you. You have been mislead by the chocolate. Surprises are more ugly than
+Well. I have tricked you. You have been misled by the chocolate. Surprises are more ugly than
 beautiful.
 
-Surprises are terrible for programing. Who wants to use an API with surprising
+Surprises are terrible for programming. Who wants to use an API with surprising
 results?
 
-But surprising are fascinating on the other hand. The same holds for mistakes.
+But surprises are fascinating on the other hand. The same holds for mistakes.
 Both remind me which parts of the world I did not yet understand quite well.
 Sometimes it really helps to not look at the Instagram version if you want to
 see and understand reality.
 Surprises have the power to destabilize your beliefs or your current notion of
-reality and eventually will make you learn something new about reality
-afterwards.
+reality and will eventually make you learn something new.
 
 This talk should not make you learn something new, but at least confuse and
 surprise you as much as possible as a first step towards learning something
 new. If not I hope it is at least entertaining.
 
-Also every programing conference should have a talk making fun of the
-programing language. If you know the famous WAT talk, you know what I mean.
+Also every programming conference should have a talk making fun of the
+programming language. If you know the famous WAT talk, you know what I mean.
 
 
 Bool
@@ -105,7 +104,7 @@ is actually so close to infinity that there is more than one?
 Source: https://github.com/satwikkansal/wtfpython#-is-is-not-what-it-is
 
 So some things are so similar that we call them equal, some are actually
-identical and therefore unique. Others are following Heracalitus and not even
+identical and therefore unique. Others are following Heraclitus (the Greek philosopher who said "No man ever steps in the same river twice") and not even
 equal to itself:
 
 >>> from river import river
@@ -127,20 +126,20 @@ change the result:
 >>> (1 + 2) + 3 == 1 + (2 + 3)
 True
 
-The sum follows the associative law, so we can skip the parenthesis.
+The sum follows the associative law, so we can skip the parentheses.
 
 The same works also for other binary operators:
 
 >>> 1 < 2 < 3
 True
->>> (1 < 2) < 3)
+>>> (1 < 2) < 3
 True
 >>> 1 < (2 < 3)
 False
 
 Oh shit!
 
-Speaking of parenthesis:
+Speaking of parentheses:
 
 >>> x, y = (0, 1) if True else None, None
 >>> x, y
@@ -148,7 +147,7 @@ Speaking of parenthesis:
 
 Source: https://github.com/satwikkansal/wtfpython#-needle-in-a-haystack
 
-More fun with parenthesis:
+More fun with parentheses:
 
 >>> 'something' is not None
 True
