@@ -24,6 +24,9 @@ The lightning talk was presented again at `PyCon Austria 2025`_.
 Recording
 ---------
 
+`Recording on Youtube <https://youtu.be/j_fdGwDevKM?list=PL2SQsc4iPw5buH3ZK6MVxmGyB_ifIRB23&t=5>`_ at `PyCon Austria 2025`_:
+
+
 .. image:: screenshot-youtube-pycon-austria2025.png
    :target: https://youtu.be/j_fdGwDevKM?list=PL2SQsc4iPw5buH3ZK6MVxmGyB_ifIRB23&t=5
 
